@@ -1,0 +1,29 @@
+# =========================
+# Core runtime dependencies
+# =========================
+
+pandas>=1.5
+requests>=2.28
+
+# =========================
+# Selenium stack (optional but recommended)
+# Required if you want:
+#   - ChemSpider web resolver
+#   - Google AI Overview fallback
+# =========================
+
+selenium>=4.10
+webdriver-manager>=4.0
+
+# =========================
+# Chemistry / SMILES handling (optional but strongly recommended)
+# If not installed, code falls back to heuristic validation
+# =========================
+
+rdkit-pypi>=2022.9.5
+
+# =========================
+# Optional quality-of-life
+# =========================
+
+tqdm>=4.64
