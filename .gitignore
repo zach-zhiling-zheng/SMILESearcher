@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+results/
+name2smiles.json
+*.checkpoint.json
+*.checkpoint.csv
+.env
+*.tmp
+
+/example-cache.json

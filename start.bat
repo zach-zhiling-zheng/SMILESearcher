@@ -1,8 +1,5 @@
 @echo off
 setlocal
-
-REM 可选：如果你用 venv
-REM call .venv\Scripts\activate
-
-python app.py
+cd /d "%~dp0"
+python app.py %*
 pause

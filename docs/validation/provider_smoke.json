@@ -1,0 +1,104 @@
+{
+  "tested_at": "2026-09-27T21:24:09.615967+00:00",
+  "results": [
+    {
+      "provider": "pubchem",
+      "name": "ethanol",
+      "status": "found",
+      "smiles": "CCO",
+      "expected_match": true,
+      "note": "",
+      "requests": {
+        "pubchem": 1
+      }
+    },
+    {
+      "provider": "pubchem",
+      "name": "terephthalic acid",
+      "status": "found",
+      "smiles": "O=C(O)c1ccc(C(=O)O)cc1",
+      "expected_match": true,
+      "note": "",
+      "requests": {
+        "pubchem": 2
+      }
+    },
+    {
+      "provider": "pubchem",
+      "name": "(R)-2-aminopropanoic acid",
+      "status": "found",
+      "smiles": "C[C@@H](N)C(=O)O",
+      "expected_match": true,
+      "note": "",
+      "requests": {
+        "pubchem": 3
+      }
+    },
+    {
+      "provider": "cactus",
+      "name": "ethanol",
+      "status": "found",
+      "smiles": "CCO",
+      "expected_match": true,
+      "note": "",
+      "requests": {
+        "cactus": 1
+      }
+    },
+    {
+      "provider": "cactus",
+      "name": "terephthalic acid",
+      "status": "found",
+      "smiles": "O=C(O)c1ccc(C(=O)O)cc1",
+      "expected_match": true,
+      "note": "",
+      "requests": {
+        "cactus": 2
+      }
+    },
+    {
+      "provider": "cactus",
+      "name": "(R)-2-aminopropanoic acid",
+      "status": "found",
+      "smiles": "C[C@@H](N)C(=O)O",
+      "expected_match": true,
+      "note": "",
+      "requests": {
+        "cactus": 3
+      }
+    },
+    {
+      "provider": "opsin",
+      "name": "ethanol",
+      "status": "found",
+      "smiles": "CCO",
+      "expected_match": true,
+      "note": "",
+      "requests": {
+        "opsin": 1
+      }
+    },
+    {
+      "provider": "opsin",
+      "name": "terephthalic acid",
+      "status": "found",
+      "smiles": "O=C(O)c1ccc(C(=O)O)cc1",
+      "expected_match": true,
+      "note": "",
+      "requests": {
+        "opsin": 2
+      }
+    },
+    {
+      "provider": "opsin",
+      "name": "(R)-2-aminopropanoic acid",
+      "status": "found",
+      "smiles": "C[C@@H](N)C(=O)O",
+      "expected_match": true,
+      "note": "",
+      "requests": {
+        "opsin": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+include LICENSE README.md CHANGELOG.md app.py pipeline.py start.bat requirements.txt
+recursive-include docs *.md *.json
+recursive-include examples *.md *.csv *.json
+recursive-include tests *.py
