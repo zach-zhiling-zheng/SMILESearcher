@@ -1,0 +1,21 @@
+﻿rank,linker_1,record_count,linker_SMILES_1,linker_MW_1
+1,terephthalic acid,1891,O=C(O)c1ccc(C(=O)O)cc1,166.132
+2,"benzene-1,3,5-tricarboxylic acid",1141,O=C(O)c1cc(C(=O)O)cc(C(=O)O)c1,210.141
+3,2-methylimidazole,527,Cc1ncc[nH]1,82.106
+4,2-aminoterephthalic acid,499,Nc1cc(C(=O)O)ccc1C(=O)O,181.147
+5,"2,5-dihydroxyterephthalic acid",316,O=C(O)c1cc(O)c(C(=O)O)cc1O,198.13
+6,"biphenyl-4,4'-dicarboxylic acid",293,O=C(O)c1ccc(-c2ccc(C(=O)O)cc2)cc1,242.23
+7,fumaric acid,227,O=C(O)/C=C/C(=O)O,116.072
+8,isophthalic acid,175,O=C(O)c1cccc(C(=O)O)c1,166.132
+9,"2,6-naphthalenedicarboxylic acid",140,O=C(O)c1ccc2cc(C(=O)O)ccc2c1,216.192
+10,"2,5-thiophenedicarboxylic acid",116,O=C(O)c1ccc(C(=O)O)s1,172.161
+11,"1,2,4,5-benzenetetracarboxylic acid",104,O=C(O)c1cc(C(=O)O)c(C(=O)O)cc1C(=O)O,254.15
+12,"4,4'-(hexafluoroisopropylidene)bis(benzoic acid)",94,O=C(O)c1ccc(C(c2ccc(C(=O)O)cc2)(C(F)(F)F)C(F)(F)F)cc1,392.251
+13,"pyridine-3,5-dicarboxylic acid",91,O=C(O)c1cncc(C(=O)O)c1,167.12
+14,"4,4'-bipyridine",83,c1cc(-c2ccncc2)ccn1,156.188
+15,"4,4'-oxybis(benzoic acid)",82,O=C(O)c1ccc(Oc2ccc(C(=O)O)cc2)cc1,258.229
+16,"1,3,5-tris(4-carboxyphenyl)benzene",81,O=C(O)c1ccc(-c2cc(-c3ccc(C(=O)O)cc3)cc(-c3ccc(C(=O)O)cc3)c2)cc1,438.435
+17,"1,2,4-triazole",74,c1nc[nH]n1,69.067
+18,"2,5-furandicarboxylic acid",71,O=C(O)c1ccc(C(=O)O)o1,156.093
+19,"1,4-naphthalenedicarboxylic acid",70,O=C(O)c1ccc(C(=O)O)c2ccccc12,216.192
+20,imidazole,70,c1c[nH]cn1,68.079

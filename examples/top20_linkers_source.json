@@ -1,0 +1,15 @@
+{
+  "dataset": "MOFinder positive synthesis records",
+  "field": "linker_1",
+  "frequency_unit": "Synthesis records",
+  "source_url": "https://github.com/zzhenglab/MOFinder/blob/60fc6d3013c58f7fddd6b18ec459d02fb51878c9/docs/dataset_analysis/tables/linker_1_records.csv",
+  "source_sha256": "6daa987ff1a8e2b6ac1bfca970d7df0fc40248d6445b65902d729c26fab6763a",
+  "examples": 20,
+  "verified_providers": [
+    "PubChem",
+    "OPSIN",
+    "CACTUS"
+  ],
+  "molecular_weight_method": "RDKit Descriptors.MolWt",
+  "molecular_weight_unit": "g/mol"
+}

@@ -1,0 +1,302 @@
+{
+  "terephthalic acid": {
+    "name": "terephthalic acid",
+    "smiles": "O=C(O)c1ccc(C(=O)O)cc1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/terephthalic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C8H6O4",
+    "inchi_key": "KKEYFWRCBNTPAC-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "benzene-1,3,5-tricarboxylic acid": {
+    "name": "benzene-1,3,5-tricarboxylic acid",
+    "smiles": "O=C(O)c1cc(C(=O)O)cc(C(=O)O)c1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/benzene-1%2C3%2C5-tricarboxylic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C9H6O6",
+    "inchi_key": "QMKYBPDZANOJGF-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "2-methylimidazole": {
+    "name": "2-methylimidazole",
+    "smiles": "Cc1ncc[nH]1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2-methylimidazole/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C4H6N2",
+    "inchi_key": "LXBGSDVWAMZHDD-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "2-aminoterephthalic acid": {
+    "name": "2-aminoterephthalic acid",
+    "smiles": "Nc1cc(C(=O)O)ccc1C(=O)O",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2-aminoterephthalic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C8H7NO4",
+    "inchi_key": "GPNNOCMCNFXRAO-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "2,5-dihydroxyterephthalic acid": {
+    "name": "2,5-dihydroxyterephthalic acid",
+    "smiles": "O=C(O)c1cc(O)c(C(=O)O)cc1O",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2%2C5-dihydroxyterephthalic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C8H6O6",
+    "inchi_key": "OYFRNYNHAZOYNF-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "biphenyl-4,4'-dicarboxylic acid": {
+    "name": "biphenyl-4,4'-dicarboxylic acid",
+    "smiles": "O=C(O)c1ccc(-c2ccc(C(=O)O)cc2)cc1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/biphenyl-4%2C4%27-dicarboxylic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C14H10O4",
+    "inchi_key": "NEQFBGHQPUXOFH-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "fumaric acid": {
+    "name": "fumaric acid",
+    "smiles": "O=C(O)/C=C/C(=O)O",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fumaric%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C4H4O4",
+    "inchi_key": "VZCYOOQTPOCHFL-OWOJBTEDSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "isophthalic acid": {
+    "name": "isophthalic acid",
+    "smiles": "O=C(O)c1cccc(C(=O)O)c1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isophthalic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C8H6O4",
+    "inchi_key": "QQVIHTHCMHWDBS-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "2,6-naphthalenedicarboxylic acid": {
+    "name": "2,6-naphthalenedicarboxylic acid",
+    "smiles": "O=C(O)c1ccc2cc(C(=O)O)ccc2c1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2%2C6-naphthalenedicarboxylic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C12H8O4",
+    "inchi_key": "RXOHFPCZGPKIRD-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "2,5-thiophenedicarboxylic acid": {
+    "name": "2,5-thiophenedicarboxylic acid",
+    "smiles": "O=C(O)c1ccc(C(=O)O)s1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2%2C5-thiophenedicarboxylic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C6H4O4S",
+    "inchi_key": "YCGAZNXXGKTASZ-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "1,2,4,5-benzenetetracarboxylic acid": {
+    "name": "1,2,4,5-benzenetetracarboxylic acid",
+    "smiles": "O=C(O)c1cc(C(=O)O)c(C(=O)O)cc1C(=O)O",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1%2C2%2C4%2C5-benzenetetracarboxylic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C10H6O8",
+    "inchi_key": "CYIDZMCFTVVTJO-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "4,4'-(hexafluoroisopropylidene)bis(benzoic acid)": {
+    "name": "4,4'-(hexafluoroisopropylidene)bis(benzoic acid)",
+    "smiles": "O=C(O)c1ccc(C(c2ccc(C(=O)O)cc2)(C(F)(F)F)C(F)(F)F)cc1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/4%2C4%27-%28hexafluoroisopropylidene%29bis%28benzoic%20acid%29/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C17H10F6O4",
+    "inchi_key": "PHQYMDAUTAXXFZ-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "pyridine-3,5-dicarboxylic acid": {
+    "name": "pyridine-3,5-dicarboxylic acid",
+    "smiles": "O=C(O)c1cncc(C(=O)O)c1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyridine-3%2C5-dicarboxylic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C7H5NO4",
+    "inchi_key": "MPFLRYZEEAQMLQ-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "4,4'-bipyridine": {
+    "name": "4,4'-bipyridine",
+    "smiles": "c1cc(-c2ccncc2)ccn1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/4%2C4%27-bipyridine/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C10H8N2",
+    "inchi_key": "MWVTWFVJZLCBMC-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "4,4'-oxybis(benzoic acid)": {
+    "name": "4,4'-oxybis(benzoic acid)",
+    "smiles": "O=C(O)c1ccc(Oc2ccc(C(=O)O)cc2)cc1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/4%2C4%27-oxybis%28benzoic%20acid%29/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C14H10O5",
+    "inchi_key": "WVDRSXGPQWNUBN-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "1,3,5-tris(4-carboxyphenyl)benzene": {
+    "name": "1,3,5-tris(4-carboxyphenyl)benzene",
+    "smiles": "O=C(O)c1ccc(-c2cc(-c3ccc(C(=O)O)cc3)cc(-c3ccc(C(=O)O)cc3)c2)cc1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1%2C3%2C5-tris%284-carboxyphenyl%29benzene/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C27H18O6",
+    "inchi_key": "SATWKVZGMWCXOJ-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "1,2,4-triazole": {
+    "name": "1,2,4-triazole",
+    "smiles": "c1nc[nH]n1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1%2C2%2C4-triazole/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C2H3N3",
+    "inchi_key": "NSPMIYGKQJPBQR-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "2,5-furandicarboxylic acid": {
+    "name": "2,5-furandicarboxylic acid",
+    "smiles": "O=C(O)c1ccc(C(=O)O)o1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2%2C5-furandicarboxylic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C6H4O5",
+    "inchi_key": "CHTHALBTIRVDBM-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "1,4-naphthalenedicarboxylic acid": {
+    "name": "1,4-naphthalenedicarboxylic acid",
+    "smiles": "O=C(O)c1ccc(C(=O)O)c2ccccc12",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1%2C4-naphthalenedicarboxylic%20acid/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C12H8O4",
+    "inchi_key": "ABMFBCRYHDZLRD-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  },
+  "imidazole": {
+    "name": "imidazole",
+    "smiles": "c1c[nH]cn1",
+    "source": "pubchem",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/imidazole/property/SMILES/JSON?name_type=complete",
+    "status": "found",
+    "verified_providers": [
+      "pubchem",
+      "opsin",
+      "cactus"
+    ],
+    "formula": "C3H4N2",
+    "inchi_key": "RAXXELZNTBOGNW-UHFFFAOYSA-N",
+    "updated_at": "2026-09-27T21:49:01+00:00"
+  }
+}

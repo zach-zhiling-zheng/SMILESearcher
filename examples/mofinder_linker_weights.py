@@ -1,6 +1,6 @@
 """Calculate linker molecular weights from MOFinder names and cached structures.
 
-The reported lookup is kept unchanged; output is a separate review table.
+The reported lookup is kept unchanged; output is a separate table of calculated weights.
 """
 
 import argparse

@@ -1,4 +1,0 @@
-record_id,canonical_name,smiles
-demo_building_block_1,"benzene-1,4-diamine",
-demo_building_block_2,terephthalaldehyde,invalid_smiles
-demo_building_block_3,"benzene-1,4-diamine",c1cc(N)ccc1N

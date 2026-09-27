@@ -2,6 +2,8 @@
 
 ## 2026-09-27
 
+- Added a reproducible demonstration of 20 frequently reported primary linkers from MOFinder, with SMILES and molecular weights.
+
 - Combined MOF reagent-column resolution and organic building-block lookup.
 - Added explicit column selection and single-name lookup.
 - Added molecular-weight calculation and comparison with the MOFinder linker table.

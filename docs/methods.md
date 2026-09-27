@@ -16,7 +16,7 @@ Molecular weights use RDKit `Descriptors.MolWt`, which gives average molecular w
 
 ## Repeated runs
 
-Cached resolutions reduce repeated requests across tables. Conflicting cached identities remain unresolved for review. Offline runs make no provider requests. A saved checkpoint binds progress to the input content and resolution settings; resume checks these before reusing it. Per-cell audit records distinguish retained values, successful replacements, and unresolved entries.
+Cached resolutions reduce repeated requests across tables. Offline runs make no provider requests. A saved checkpoint binds progress to the input content and resolution settings; resume checks these before reusing it. Per-cell audit records distinguish retained values, successful replacements, and unresolved entries.
 
 ## Changes from the original workflow
 

@@ -8,7 +8,7 @@ Run the following commands from the repository root after `python -m pip install
 python app.py --csv compounds.csv --cache name_to_smiles.json --out resolved.csv
 ```
 
-MOF `linker_N`, `modulator_N`, and `metal_N` columns and building-block `canonical_name` / `smiles` columns are detected automatically. Missing SMILES columns are created. For another schema, select a pair explicitly:
+MOF `linker_N` and `modulator_N` columns are detected automatically. Missing SMILES columns are created. For another schema, select a pair explicitly:
 
 ```bash
 python app.py --csv compounds.csv --name-column compound --smiles-column structure --cache name_to_smiles.json --out resolved.csv
@@ -36,7 +36,7 @@ To read the MOFinder linker table and its name-to-SMILES cache:
 python examples/mofinder_linker_weights.py --mofinder-root ../MOFinder --out results/linker_weights.csv
 ```
 
-The helper runs offline by default and keeps `reported_mw_g_mol` alongside calculated weights in a new review table. It does not overwrite MOFinder's source values. From inside the MOFinder `SMILESearcher/` submodule, use `--mofinder-root ..`.
+The helper runs offline by default and keeps `reported_mw_g_mol` alongside calculated weights in a separate output table. It does not overwrite MOFinder's source values. From inside the MOFinder `SMILESearcher/` submodule, use `--mofinder-root ..`.
 
 ## Control requests
 
